@@ -9,10 +9,10 @@
 # -----------------------------------------------------------------------------#
 
 # Ejecute esta línea una sola vez si no tiene instalado tidyverse:
-# install.packages("tidyverse")
+install.packages("tidyverse")
 library(tidyverse)
 
-ruta_entrada <- "base_sucia_encuesta.txt"   # ajuste la ruta a donde tenga el .txt
+ruta_entrada <- "C:/Users/david/Downloads/doingeconomicsUR-main/doingeconomicsUR-main/taller_limpieza_datos/datos/base_sucia_encuesta.txt" 
 ruta_salida  <- "resultados/base_limpia.csv"
 
 
@@ -28,7 +28,7 @@ print(lineas_iniciales)
 
 # Respuesta TODO 1:
 # a) Delimitador: ";"
-# b) Codificación: "WINDOWS-1252"
+# b) Codificación: "WINDOWS-1252" .
 # c) Cadenas de valores perdidos: "N/D", "-"
 
 
