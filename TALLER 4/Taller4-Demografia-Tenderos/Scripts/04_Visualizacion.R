@@ -3,7 +3,7 @@
 # Doing Economics - Penetracion de internet en tenderos de Colombia
 # ================================================================
 # Proyecto : Penetracion de internet y poblacion municipal - 10 ciudades
-# Autor(es): [Nombre 1, Nombre 2, Nombre 3]
+# Autor(es): [Camilo Ospina, David Pascagaza, Emily Rodriguez]
 # Fecha    : 2026-08-23
 #
 # Input:
